@@ -1,6 +1,7 @@
-# Unsupervised Learning for Sea Ice and Lead Classification
+# Classify the echoes in leads and sea ice and produce an average echo shape as well as standard deviation for these two classes 
 
 ## Overview
+Quantify echo classification against the ESA official classification using a confusion matrix
 This repository contains code for applying unsupervised learning techniques to Earth Observation (EO) data for sea ice and lead discrimination. The project focuses on two main tasks:
 1. Discrimination of sea ice and leads using Sentinel-2 optical data
 2. Discrimination of sea ice and leads using Sentinel-3 altimetry data
