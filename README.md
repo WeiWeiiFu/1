@@ -71,14 +71,10 @@ def unpack_gpod(variable):
 
 ## Results
 The unsupervised classification achieves excellent agreement with ESA reference data:
-- Precision: ~99%
-- Recall: ~99% 
-- F1-score: ~99%
-Classification Report:
-              precision    recall  f1-score   support
-         0.0       1.00      1.00      1.00      8878
-         1.0       0.99      0.99      0.99      3317
-    accuracy                           1.00     12195
+
+Precision: ~99%
+Recall: ~99%
+F1-score: ~99%
 ### Confusion Matrix
 ```
 [8856   22]
